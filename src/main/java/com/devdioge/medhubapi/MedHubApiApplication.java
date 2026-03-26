@@ -1,4 +1,4 @@
-package com.devdioge.med_hub_api;
+package com.devdioge.medhubapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
